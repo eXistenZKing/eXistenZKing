@@ -1,6 +1,7 @@
 # Hi there, I’m Dmitrii Goriainov 👋
 # Beginner backend developer
 
+🧠 I'm currently learning NumPy, Pandas and improving my Django REST framework skills 
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,github,postgres,postman,docker,django)](https://skillicons.dev)
