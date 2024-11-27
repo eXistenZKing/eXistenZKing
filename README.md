@@ -2,6 +2,7 @@
 # Junior backend developer
 
 🧠 I'm currently improving my Django REST framework, FASTAPI, SQLAlchemy skills
+
 💻 Also, I am currently working as a junior backend developer 
 
 ## 🛠 Skills
