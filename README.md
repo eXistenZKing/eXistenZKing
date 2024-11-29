@@ -3,7 +3,7 @@
 
 🧠 I'm currently improving my Django REST framework, FASTAPI, SQLAlchemy skills
 
-📖 I'm interested in learning ML in python.
+📖 I'm interested in learning ML in python and web development.
 
 💻 Also, I am currently working as a junior backend developer 
 
