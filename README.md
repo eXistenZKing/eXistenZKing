@@ -1,11 +1,11 @@
 # Hi there, I’m Dmitrii Goriainov 👋
 # Junior backend developer
 
-🧠 I'm currently improving my Django REST framework, FASTAPI, SQLAlchemy skills
+🧠 I'm currently improving my Django REST framework, FastAPI, SQLAlchemy skills.
 
-📖 I'm interested in learning ML in python and web development.
+📖 I'm interested in learning ML in Python and web development.
 
-💻 Also, I am currently working as a junior backend developer 
+💻 Also, I am currently working as a junior backend developer.
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,github,postgres,postman,docker,django,fastapi)](https://skillicons.dev)
